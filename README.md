@@ -1,6 +1,6 @@
 ### Hola 👋, Mi Nombre es Juan Carlos
 #### Programador jr Laravel TALL stack
-Soy una persona responsable y dinámica. Intento hacer todo con pasión y esmero; teniendo como objetivo fijo autosuperarme día a día. Trabajo eficazmente tanto en grupo como de manera individual, siempre con aptitud positiva frente a nuevos desafíos, en constante aprendizaje y ganas de incorporar nuevas tech.
+Soy una persona responsable y con gran capacidad de adaptación. Intento hacer todo con pasión y esmero; teniendo como objetivo fijo autosuperarme día a día. Trabajo eficazmente tanto en grupo como de manera individual, siempre con aptitud positiva frente a nuevos desafíos, en constante aprendizaje y ganas de incorporar nuevas tech.
 
 Habilidades: PHP / LARAVEL / JS / HTML / CSS
 
