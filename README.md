@@ -17,7 +17,7 @@ Soy una persona responsable, con gran capacidad de adaptación y flexibilidad. I
 - ⚡ Dato curioso: Sin libertad 
 ----
 #### Redes: 
-[<img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' alt='github' height='40'>](https://github.com/Bertydev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bertydev)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Bertydev)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bertydev/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Bertysiloista)
