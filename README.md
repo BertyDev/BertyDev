@@ -17,16 +17,16 @@ Soy una persona responsable, con gran capacidad de adaptación y flexibilidad. I
 - ⚡ Dato curioso: Sin libertad 
 ----
 #### Redes: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bertydev)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Bertydev)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bertydev/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Bertysiloista)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Bertydev_/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Bertydev)
+[<img src='./icons/github.svg' alt='github' height='40'>](https://github.com/Bertydev)
+[<img src='./icons/dev-to.svg' alt='dev' height='40'>](https://dev.to/Bertydev)
+[<img src='./icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bertydev/)
+[<img src='./icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Bertysiloista)
+[<img src='./icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Bertydev_/)
+[<img src='./icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Bertydev)
 
 ----
 #### Techs:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apache.svg' alt='apache' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='laravel' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='tailwindcss' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/composer.svg' alt='composer' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg' alt='webpack' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='adobeillustrator' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/digitalocean.svg' alt='digitalocean' height='40'>](#)
+[<img src='./icons/apache.svg' alt='apache' height='40'>](#)  [<img src='./icons/php.svg' alt='php' height='40'>](#)  [<img src='./icons/tailwind.svg' alt='tailwindcss' height='40'>](#) [<img src='./icons/alpinejs.svg' alt='alpinejs' height='40'>](#) [<img src='./icons/laravel.svg' alt='laravel' height='40'>](#)  [<img src='./icons/css3.svg' alt='css3' height='40'>](#)  [<img src='./icons/composer.svg' alt='composer' height='40'>](#)  [<img src='./icons/npm.svg' alt='npm' height='40'>](#)  [<img src='./icons/webpack.svg' alt='webpack' height='40'>](#)  [<img src='./icons/html5.svg' alt='html5' height='40'>](#)  [<img src='./icons/photoshop.svg' alt='adobephotoshop' height='40'>](#)  [<img src='./icons/illustrator.svg' alt='adobeillustrator' height='40'>](#)  [<img src='./icons/javascript.svg' alt='javascript' height='40'>](#)  [<img src='./icons/digitalocean.svg' alt='digitalocean' height='40'>](#)
 
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertyDev&count_private=true&layout=compact&theme=prussian)](https://github.com/bertydev/)
