@@ -3,19 +3,19 @@
 ----
 #### Descripción:
 <p align="justify">
-Soy una persona responsable, con gran capacidad de adaptación y flexibilidad. Intento hacer todo con pasión, esmero y concentración; teniendo como objetivo autosuperarme día a día. Trabajo tanto en grupo como de manera individual, siempre con actitud positiva frente a nuevos desafíos, en aprendizaje permanente y actualizando mis conocimientos, dando mis primeros pasos en el mundo IT.
+Soy una persona responsable, con gran capacidad de adaptación y flexibilidad. Intento hacer todo con pasión, esmero y concentración; teniendo el objetivo de autosuperarme día a día. Trabajo tanto en grupo como de manera individual, siempre con actitud positiva frente a nuevos desafíos, en aprendizaje permanente y actualizando mis conocimientos, dando mis primeros pasos en el mundo IT.
 </p>
 
 #### Habilidades: PHP / LARAVEL / JS / HTML / CSS
 ----
 #### Actualmente:
 - 🔭 Estoy trabajando Freelance para Artes Shoko donde realice una Web [Cuponera](https://cuponeras.com.ar)
-- 🌱 Estoy aprendiendo Front-End en Potrero Digital 
+- 🌱 Aprendiendo Front-End en Potrero Digital
 - 👯 Quiero colaborar con La resolución de problemas comunes 
 - 💬 Pregúntame acerca de Laravel / Tailwind / PHP 
 - 📫 Cómo contactarme: estudiosxarg@gmail.com 
-- 😄 Pronombres: Berty 
-- ⚡ Dato curioso: Sin libertad 
+- 😄 Apodo: Berty 
+- ⚡ Dato curioso: Humanista
 ----
 #### Redes: 
 [<img src='./icons/github.svg' alt='github' height='40'>](https://github.com/Bertydev)
