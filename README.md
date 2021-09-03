@@ -30,7 +30,7 @@ Soy una persona responsable, con gran capacidad de adaptación y flexibilidad. I
 [<img src='./icons/apache.svg' alt='apache' height='40'>](#)  [<img src='./icons/php.svg' alt='php' height='40'>](#)  [<img src='./icons/tailwind.svg' alt='tailwindcss' height='40'>](#) [<img src='./icons/alpinejs.svg' alt='alpinejs' height='40'>](#) [<img src='./icons/laravel.svg' alt='laravel' height='40'>](#)  [<img src='./icons/css3.svg' alt='css3' height='40'>](#)  [<img src='./icons/composer.svg' alt='composer' height='40'>](#)  [<img src='./icons/npm.svg' alt='npm' height='40'>](#)  [<img src='./icons/webpack.svg' alt='webpack' height='40'>](#)  [<img src='./icons/html5.svg' alt='html5' height='40'>](#)  [<img src='./icons/photoshop.svg' alt='adobephotoshop' height='40'>](#)  [<img src='./icons/illustrator.svg' alt='adobeillustrator' height='40'>](#)  [<img src='./icons/javascript.svg' alt='javascript' height='40'>](#)  [<img src='./icons/digitalocean.svg' alt='digitalocean' height='40'>](#)
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BertyDev&count_private=true&layout=compact&theme=prussian)](https://github.com/bertydev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bertydev&show_icons=true&locale=en&layout=compact&theme=prussian)](https://github.com/bertydev/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BertyDev&show_icons=true&count_private=true&theme=prussian)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BertyDev&theme=prussian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bertydev&show_icons=true&theme=prussian)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bertydev&theme=prussian)
 
