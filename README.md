@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100% auto" src="https://media-exp1.licdn.com/dms/image/C5616AQHXq4P-qyVV2g/profile-displaybackgroundimage-shrink_350_1400/0/1629985733660?e=1635379200&v=beta&t=2obGQNGXNv7FLi8Mi--rFj4zGu3CP5yWHOvEswvNMtU"><br>
+<img align="center" alt="Coding" width="100% auto" src="https://media-exp1.licdn.com/dms/image/C5616AQHXq4P-qyVV2g/profile-displaybackgroundimage-shrink_350_1400/0/1629985733660?e=1640822400&v=beta&t=xGdMCxyNfDKlDuJz-PSs3sS4I4ybxSFR9Nf6jsAfxDI"><br>
 #### Programador jr Laravel TALL stack
 ----
 #### Descripción:
